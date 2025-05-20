@@ -1,0 +1,73 @@
+[
+  {
+    "username": "invalid user",
+    "email": "not-an-email",
+    "dob": "2010-01-01",
+    "credit_card": "123"
+  },
+  {
+    "username": "short",
+    "email": "valid@example.com",
+    "dob": "1995-12-10",
+    "credit_card": "1234567890123456"
+  },
+  {
+    "username": "anotherValidUser",
+    "email": "another@example.com",
+    "dob": "1985-07-14"
+  },
+  {
+    "username": "tgreen",
+    "email": "csmith@yahoo.com",
+    "dob": "1966-05-29",
+    "credit_card": null
+  },
+  {
+    "username": "pamelaburns",
+    "email": "adamyates@yahoocom",
+    "dob": "1978-05-26",
+    "credit_card": "30033082336608"
+  },
+  {
+    "username": "ann56",
+    "email": "opeterson@gmail.com",
+    "dob": "1981-05-25",
+    "credit_card": "3003308233660823"
+  },
+  {
+    "username": "rileypaul",
+    "email": "edwardmiller@quinn-taylor.com",
+    "dob": "1967-05-29",
+    "credit_card": "342109799254822"
+  },
+  {
+    "username": "edwardsjonathan",
+    "email": "christophermartinez@wolf-russell.net",
+    "dob": "2000-13-20",
+    "credit_card": "4849079827883345"
+  },
+  {
+    "username": "jennifersmith",
+    "email": "charlotte82@gmail.com",
+    "dob": "2007-05-19",
+    "credit_card": "4076636348464530"
+  },
+  {
+    "username": "nwalker",
+    "email": "lisa84@black.com",
+    "dob": "2005-05-19",
+    "credit_card": "3003308233660821"
+  },
+    {
+    "username": "jsmith",
+    "email": "charlotte82@gmail.com",
+    "dob": "2007-05-19",
+    "credit_card": "4076636348464530"
+  },
+      {
+    "username": "jmove",
+    "email": "c1282@gmail.com",
+    "dob": "2006-01-10",
+    "credit_card": "4076636348464531"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "credit_card": "not_a_card",
+    "amount": 105,
+    "transaction_date": "2024-05-14"
+  },
+  {
+    "credit_card": "30033082336608",
+    "amount": 1234,
+    "transaction_date": "2025-02-09"
+  },
+  {
+    "credit_card": "0000000000000000",
+    "amount": 199,
+    "transaction_date": "2025-01-27"
+  },
+  {
+    "credit_card": "4076636348464531",
+    "amount": 177,
+    "transaction_date": "2025-06-14"
+  },
+    {
+    "credit_card": "4076636348464531",
+    "amount": 177,
+    "transaction_date": "2024-06-14"
+  },
+  {
+    "credit_card": "1234567890123456",
+    "amount": 801,
+    "transaction_date": "2024-09-22"
+  },
+  {
+    "credit_card": "4076636348464531",
+    "amount": 143,
+    "transaction_date": "2025-03-24"
+  },
+  {
+    "credit_card": "4076636348464530",
+    "amount": 174,
+    "transaction_date": "2024-99-14"
+  },
+  {
+    "credit_card": "3003308233660823",
+    "amount": 413,
+    "transaction_date": "2024-12-01"
+  },
+  {
+    "credit_card": "3003308233660823",
+    "amount": 121,
+    "transaction_date": "2024-11-01"
+  },
+  {
+    "credit_card": "3003308233660821",
+    "amount": 232,
+    "transaction_date": "2022-11-01"
+  }
+]
