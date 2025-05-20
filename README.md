@@ -1,8 +1,8 @@
 Glue Reply - Technical assignment
 
 Packages used:
-pandas
-datetime
+pandas,
+datetime,
 pytest
 
 instalation: pip install -r requirements.txt
