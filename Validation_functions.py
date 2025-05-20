@@ -81,7 +81,7 @@ def get_age(y,m,d):
 
 #email validation: regex in the form something@something.something
 def check_email_format(email):
-    x= re.findall("^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$", email)
+    x= re.findall(r"^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$", email)
     if not x:
         raise Exception("incorrect email format")
     return True
